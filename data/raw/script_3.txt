@@ -1,0 +1,96 @@
+--- Title ---
+Pradhan Mantri Awas Yojana – Urban 2.0 (Interest Subsidy Scheme)
+
+--- Table 1: Scheme Details ---
+
+S.No: 1
+Particulars: Objective
+Details:
+Provide affordable housing to urban under Economically weaker section (EWS), Low Income group (LIG), and Mid Income Group (MIG) categories)
+
+
+S.No: 2
+Particulars: Annual Household Income
+Details:
+EWS :-   Up to ₹3 lakh
+LIG :-     Up to ₹6 lakh
+MIG :-    Up to ₹9 lakh
+For identification as an EWS/LIG/MIG beneficiary under the Scheme, an individual loan applicant will submit self-certificate/affidavit as proof of income.
+
+
+S.No: 3
+Particulars: Loan property limits
+Details:
+Maximum Loan : Rs 25.00 Lakh
+Maximum Housing Value : Rs 35.00 Lakh
+Maximum Carpet Area : 120 Sqm
+
+
+S.No: 4
+Particulars: House Ownership
+Details:
+  - Applicants must not owning a pucca house anywhere in India on his/her name or any other family members. ( An undertaking from the beneficiary will be taken as a declaration)
+
+
+S.No: 5
+Particulars: Key conditions
+Details:
+  - Adhaar requirement: - Mandatory for all beneficiaries.
+  - Self-Undertaking: - Required as per the format
+  - Registration: -Beneficiaries must register their demand through a Unified web-portal.
+
+
+S.No: 6
+Particulars: Subsidy Details
+Details:
+  - A maximum release of interest subsidy of ₹1.80 lakh having maximum NPV of ₹1.50 lakh (at Discount Rate of 8.5%) shall be provided to eligible beneficiaries having a loan tenure of more than five years.
+  - Households having income up to ₹9 lakh, loan value up to ₹25 lakh for property value up to ₹35 lakh would be eligible for a subsidy at 4.0 % on first ₹8 lakh for a tenure up to 12 years.
+  - Subsidy to the beneficiaries will be released in 5 equal yearly instalments.
+
+
+S.No: 7
+Particulars: Approved layout plans
+Details:
+The subsidy will be provided to those beneficiaries who have submitted the approved layout plan to the Banks as per guidelines of States/UTs. However, the layout plan may not be insisted by Banks where States/UTs have provided the exemption for construction of houses having provision of deemed approval or pre-approved building plan.
+
+
+--- Table 2: Eligibility Criteria ---
+Criteria: Annual Household Income (₹)
+  EWS: Up to ₹3 lakh
+  LIG: ₹3 lakh - ₹6 lakh
+  MIG: ₹6 lakh - ₹9 lakh
+
+Criteria: Interest Subsidy (% P.A.)
+  EWS: 4% on the first ₹8 lakh of the loan
+  LIG: 4% on the first ₹8 lakh of the loan
+  MIG: 4% on the first ₹8 lakh of the loan
+
+Criteria: Maximum Home Loan Eligible (₹)
+  EWS: ₹25 lakh
+  LIG: ₹25 lakh
+  MIG: ₹25 lakh
+
+Criteria: Maximum House Value (₹)
+  EWS: ₹35 lakh
+  LIG: ₹35 lakh
+  MIG: ₹35 lakh
+
+Criteria: Maximum Carpet Area(sqm)
+  EWS: 120 sqm
+  LIG: 120 sqm
+  MIG: 120 sqm
+
+Criteria: Maximum Benefit of Interest Subsidy (₹)
+  EWS: ₹1.80 lakh
+  LIG: ₹1.80 lakh
+  MIG: ₹1.80 lakh
+
+Criteria: Current Home Ownership
+  EWS: NO
+  LIG: NO
+  MIG: NO
+
+Property Location | Statutory towns as per Census 2011 or any town subsequently notified by the government
+
+
+--- Steps to Apply not found ---

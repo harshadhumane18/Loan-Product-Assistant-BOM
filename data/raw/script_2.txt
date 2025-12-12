@@ -1,0 +1,102 @@
+--- Intro ---
+Maha Super Flexi Housing Loan Scheme
+In this Home loan scheme, the borrowers’ account is linked to a dedicated savings account. So, when a borrower deposits the surplus money to the account, it will be considered credit towards the loan, thus reducing the interest on the outstanding loan amount. Also, if needed, the borrower has option to withdraw money whenever required. The loan will get rebalanced accordingly.
+
+--- Key Features ---
+- Home Loan sanctioned will be linked with flexi home Saving account.
+- Borrower will have the option to deposit all his savings in the linked flexi home Saving account to avail maximum benefit of interest.
+- Credit Balance available in the linked flexi home Saving account at the end of the day will be counted for credit in linked Home Loan account.
+- Accordingly, the borrower will get the benefit of interest amount in the Home Loan to the extent of daily outstanding credit balance in the linked flexi home Saving Account Bank account.
+- Borrower is eligible for Cheque book facility, internet banking facility, and Mobile banking facility etc. as per normal Savings Bank rules.
+
+--- Benefits to the borrowers ---
+- The surplus amount deposited could be utilized for his personal / business purpose whenever required.
+- The scheme offers liquidity as well as interest relief.
+
+--- Scheme Table ---
+
+S.No: 1
+Particulars: Nature of facility
+Scheme guidelines:
+Term Loan linked with Saving Account.
+
+
+S.No: 2
+Particulars: Purpose
+Scheme guidelines:
+  - For Purchase of ready built residential flat directly from the Builders/ Developers/Society/Other Agencies/Development Authority / etc.
+  - For Purchase of new or existing house/flat not older than 30 years (Residual life of the building should be 5 Years more than the loan tenure at the time of sanction).
+  - Takeover of existing Housing Loan accounts of the applicants under standard category availed from other Banks / Housing Financial Institutions
+
+
+S.No: 3
+Particulars: Eligibility
+Scheme guidelines:
+Individual salaried employees/ self-employed professionals/Businessman / Agriculturist
+
+
+S.No: 4
+Particulars: Eligible Quantum of Loan
+Scheme guidelines:
+Maximum loan amount will be lowest of loan amount assessed on the basis of
+  - Permissible Deduction norms
+  - Maximum permissible LTV ratio
+  - Loan amount requested.
+
+
+S.No: 5
+Particulars: Loan Amount
+Scheme guidelines:
+Minimum - Rs 50.00 Lakh
+
+Maximum - No Maximum Limit
+
+
+S.No: 7
+Particulars: Repayment period
+Scheme guidelines:
+Maximum Repayment period of 30 years or on borrower reaching the age of 75 years whichever is earlier.
+
+
+S.No: 8
+Particulars: Rate of Interest
+Scheme guidelines:
+Additional 0.25% above the existing ROI as per “ Maha Super Housing Loan scheme” will be applicable.
+
+
+S.No: 9
+Particulars: Deduction
+Scheme guidelines:
+For Salaried individuals.
+
+Up to 80% based on latest Gross monthly income
+
+For Non-Salaried Individuals
+
+Up to 80% based on average annual income
+
+
+S.No: 10
+Particulars: Flexi Credit Arrangement
+Scheme guidelines:
+  - The Home Loan sanctioned will be linked with flexi home Saving account.
+  - The rate of interest applicable on this flexi home Saving account will be Zero
+  - After full disbursement of Loan and other condition of loan gets completed, Borrower will be permitted to deposit surplus funds over and above stipulated EMIs in the Flexi SB account and also allowed to withdraw the surplus amount deposited in the account.
+  - Any credit available in the linked Flexi home Saving account at the end of the day will be counted for credit in linked Home Loan account. The outstanding balance of Home Loan account and linked savings SB account will be netted on day end. Accordingly, interest will be charged to the Home Loan account netting credit balance available in the Flexi home Saving Account Bank account.
+  - The per day interest calculation done in EOD in Flexi Home Loan account should be on Balance O/s of Loan Account less Credit Balance in linked Flexi Home SB account.
+
+
+S.No: 11
+Particulars: Security
+Scheme guidelines:
+Equitable / Registered Mortgage of Property.
+
+
+S.No: 12
+Particulars: Processing Fee
+Scheme guidelines:
+0.25 % of the loan amount (Subject to max. of Rs. 25,000/-)
+
+(currently waived up to 30.09.2024)
+
+Full waiver of Processing Fee for Govt. /State /Central Government / Public sector Employees in case of Takeover Loans

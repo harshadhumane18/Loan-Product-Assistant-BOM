@@ -1,0 +1,45 @@
+--- Maha Bank Salary Gain Scheme Page ---
+Title: Mahabank Salary Gain Scheme - Bank of Maharashtra
+URL: https://bankofmaharashtra.bank.in/salary-gain-scheme
+
+--- Salary Gain Scheme ---
+
+Particulars: Category
+  For Govt. / State / PSUs employee: For Govt. / State /PSUs employee
+  Other than Govt. / State / PSU employees: Other than Govt. / State /PSU employees
+
+Particulars: Purpose of loan
+  For Govt. / State / PSUs employee: To meet their day to day needs.
+  Other than Govt. / State / PSU employees: To meet their day to day needs.
+
+Particulars: Facility
+  For Govt. / State / PSUs employee: Overdraft
+  Other than Govt. / State / PSU employees: Overdraft
+
+Particulars: Amount of OD
+  For Govt. / State / PSUs employee: 5 times of monthly take home salary subject to Maximum Loan amount of Rs 5.00 Lakh
+  Other than Govt. / State / PSU employees: 3 times of monthly take home salary subject to Maximum Loan amount of Rs 5.00 Lakh
+
+Particulars: Age
+  For Govt. / State / PSUs employee: Minimum - 21 Years  Maximum entry age should be three years before superannuation / retirement.
+  Other than Govt. / State / PSU employees: Minimum - 21 Years  Maximum entry age should be three years before superannuation / retirement.
+
+Particulars: Eligibility
+  For Govt. / State / PSUs employee: The customer should be in permanent employment with total minimum 1 year of Service, with, Central Government / State Govt. Department / undertakings (including Government and Government Aided Educational Institutions).
+  Other than Govt. / State / PSU employees: The customer should be in permanent employment with total minimum 1 year of Service, Reputed Corporates/Public or Private  Limited Companies/MNCs *  *For the employees of Pvt. / Public Ltd. Company, maintaining salary accounts with the Bank, Such companies should have external rating (in force) of A and above from any RBI accredited rating agency.
+
+Particulars: Minimum Take home salary
+  For Govt. / State / PSUs employee: Minimum Take Home salary of the applicant should be Rs.25000/-p.m.
+  Other than Govt. / State / PSU employees: Minimum Take Home salary of the applicant should be Rs.25000/-p.m.
+
+Particulars: Deduction Norms
+  For Govt. / State / PSUs employee: Total deduction of the applicant including notional interest of the proposed OD facility should not exceed 65% of the Gross Monthly Salary.
+  Other than Govt. / State / PSU employees: Total deduction of the applicant including notional interest of the proposed OD facility should not exceed 60% of the Gross Monthly Salary.
+
+Particulars: ROI
+  For Govt. / State / PSUs employee: 1 Year RLLR + 3.15 %
+  Other than Govt. / State / PSU employees: 1 Year RLLR + 3.15%
+
+Particulars: Processing Fee
+  For Govt. / State / PSUs employee: 0.50% of the OD Amount per annum, subject to min. 500/- P.A
+  Other than Govt. / State / PSU employees: 0.50% of the OD Amount per annum, subject to min. 500/- P.A

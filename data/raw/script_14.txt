@@ -1,0 +1,184 @@
+--- Mahabank Rooftop Solar Panel Loan Scheme Page ---
+Title: Mahabank Rooftop Solar Panel Loan scheme: PM Suryaghar
+URL: https://bankofmaharashtra.bank.in/mahabank-rooftop-solar-panel-loan
+
+--- Mahabank Rooftop Solar Panel Loan scheme ---
+S No.: 1
+Parameter: Purpose
+Eligibility Condition (Up to 3KW): Loan is provided for installation of Grid connected RTS (Roof Top Solar) upto 3 KW for residential purpose only.
+Eligibility Condition (Above 3KW to 10KW): Loan is provided for installation of Grid connected RTS (Roof Top Solar) (Above 3 KW to 10 KW) for residential purpose only.
+------------------------------------------------------------
+S No.: 2
+Parameter: Eligibility
+Eligibility Condition (Up to 3KW): 
+  - All Individual Applicants
+  - Applicant having CIBIL Score of 680 & above (NTC also eligible)
+  - Have Roof Top Rights on which the installation is proposed.
+  - Have sufficient Roof area as mandated by MNRE from time to time.
+  - Latest Electricity Bill.
+  - Savings Account with us mandatorily to be opened before availing of the loan
+Eligibility Condition (Above 3KW to 10KW): 
+  - All Individual Applicants
+  - Applicant having CIBIL Score of 680 & above (NTC also eligible)
+  - Have Roof Top Rights on which the installation is proposed.
+  - Have sufficient Roof area as mandated by MNRE from time to time.
+  - Latest Electricity Bill.
+  - Savings Account with us mandatorily to be opened before availing of the loan
+------------------------------------------------------------
+S No.: 3
+Parameter: Annual Income Criteria:-
+Eligibility Condition (Up to 3KW): No Minimum Annual Income criteria.
+Eligibility Condition (Above 3KW to 10KW): Minimum Annual Income – Rs. 3.00 Lakh
+------------------------------------------------------------
+S No.: 4
+Parameter: Minimum and Maximum Loan amount
+Eligibility Condition (Up to 3KW): Minimum Limit: Rs. 10,000/-
+
+Maximum Limit: Rs 2.00 Lakh
+Eligibility Condition (Above 3KW to 10KW): Minimum Limit: Rs. 10,000/-
+
+Maximum Limit: Rs 10.00 Lakh
+------------------------------------------------------------
+S No.: 5
+Parameter: Margin
+Eligibility Condition (Up to 3KW): Minimum Margin – 10% of project cost.
+
+(The project cost includes Design, Supply, Installation, testing & commissioning of Grid connected Rooftop Solar Photovoltaic Systems in residential premises including maintenance).
+Eligibility Condition (Above 3KW to 10KW): Minimum Margin - 20% of project cost
+
+(The project cost includes Design, Supply, Installation, testing & commissioning of Grid connected Rooftop Solar Photovoltaic Systems in residential premises including maintenance).
+------------------------------------------------------------
+S No.: 6
+Parameter: Age
+Eligibility Condition (Up to 3KW): Minimum Age of applicant: -21 Years,
+
+Maximum -70- Years (Including repayment period)
+Eligibility Condition (Above 3KW to 10KW): Minimum Age of applicant: -21 Years,
+
+Maximum -70- Years (Including repayment period)
+------------------------------------------------------------
+S No.: 7
+Parameter: Subsidy
+Eligibility Condition (Up to 3KW): 
+Eligibility Condition (Above 3KW to 10KW): 
+------------------------------------------------------------
+S No.: Rooftop Solar Plant Capacity
+
+(Up to 3KW)
+Parameter: Rooftop Solar Plant Capacity
+
+(Up to 4KW to 10KW)
+Eligibility Condition (Up to 3KW): 
+Eligibility Condition (Above 3KW to 10KW): 
+------------------------------------------------------------
+S No.: 1 KW – Rs 30000/-
+2 KW – Rs 60000/-
+3 KW – Rs 78000/-
+Parameter: Subsidy Amount –Rs 78000/-
+Eligibility Condition (Up to 3KW): 
+Eligibility Condition (Above 3KW to 10KW): 
+------------------------------------------------------------
+S No.: 8
+Parameter: Rate of Interest
+Eligibility Condition (Up to 3KW): 
+Eligibility Condition (Above 3KW to 10KW): 
+------------------------------------------------------------
+S No.: Rate of Interest
+Parameter: 
+Eligibility Condition (Up to 3KW): 
+Eligibility Condition (Above 3KW to 10KW): 
+------------------------------------------------------------
+S No.: RLLR - 2.30%
+Parameter: 
+Eligibility Condition (Up to 3KW): 
+Eligibility Condition (Above 3KW to 10KW): 
+------------------------------------------------------------
+S No.: CIBIL score
+Parameter: Rate of Interest
+Eligibility Condition (Up to 3KW): 
+Eligibility Condition (Above 3KW to 10KW): 
+------------------------------------------------------------
+S No.: 800 & above
+Parameter: RLLR + 0.20%
+Eligibility Condition (Up to 3KW): 
+Eligibility Condition (Above 3KW to 10KW): 
+------------------------------------------------------------
+S No.: 750 to 799
+Parameter: RLLR + 0.50%
+Eligibility Condition (Up to 3KW): 
+Eligibility Condition (Above 3KW to 10KW): 
+------------------------------------------------------------
+S No.: 700 to 749
+Parameter: RLLR + 0.75%
+Eligibility Condition (Up to 3KW): 
+Eligibility Condition (Above 3KW to 10KW): 
+------------------------------------------------------------
+S No.: 650 to 699
+Parameter: RLLR + 1.00%
+Eligibility Condition (Up to 3KW): 
+Eligibility Condition (Above 3KW to 10KW): 
+------------------------------------------------------------
+S No.: 9
+Parameter: Moratorium
+Eligibility Condition (Up to 3KW): Upto 6 Months
+Eligibility Condition (Above 3KW to 10KW): Upto 6 Months
+------------------------------------------------------------
+S No.: 10
+Parameter: Loan repayment period
+Eligibility Condition (Up to 3KW): 120 Months including moratorium
+Eligibility Condition (Above 3KW to 10KW): 120 Months including moratorium
+------------------------------------------------------------
+S No.: 11
+Parameter: Processing Fees
+Eligibility Condition (Up to 3KW): Nil
+Eligibility Condition (Above 3KW to 10KW): Nil
+------------------------------------------------------------
+S No.: 12
+Parameter: Account Handling Charges (Includes Documentation, Inspection/supervision, NeSL and CIBIL charges)
+Eligibility Condition (Up to 3KW): Rs. 500 + 0.20 % of Loan amount
+
+Minimum Rs 500/-
+
+Maximum Rs 2500/-
+Eligibility Condition (Above 3KW to 10KW): Rs. 500 + 0.20 % of Loan amount
+
+Minimum Rs 500/-
+
+Maximum Rs 2500/-
+------------------------------------------------------------
+S No.: 13
+Parameter: Security
+Eligibility Condition (Up to 3KW): Primary Security: - Hypothecation of Asset purchased i.e. Solar Roof top plant /setup. Registration of Hypothecation charges with CERSAI shall be done.
+Eligibility Condition (Above 3KW to 10KW): Primary Security: - Hypothecation of Asset purchased i.e. Solar Roof top plant /setup. Registration of Hypothecation charges with CERSAI shall be done.
+------------------------------------------------------------
+S No.: 14
+Parameter: Disbursement
+Eligibility Condition (Up to 3KW): Disbursement to be made directly to the Vendor / EPC Contractor after submission of all the required feasibility reports as mandated by MNRE.
+
+(Subsidy to be claimed by Borrower / Vendor quoting the Loan Account Number)
+Eligibility Condition (Above 3KW to 10KW): Disbursement to be made directly to the Vendor / EPC Contractor after submission of all the required feasibility reports as mandated by MNRE.
+
+(Subsidy to be claimed by Borrower / Vendor quoting the Loan Account Number)
+------------------------------------------------------------
+S No.: 15
+Parameter: In Principal offer
+Eligibility Condition (Up to 3KW): 
+  - Digital In-Principle Sanction to be given based on Self Declaration by the Applicant. Final Sanction to be based on verification of relevant documents and assessment by the Banks.
+  - All applications will be sourced through Jan Samarth Portal Only Available for Self-Sourced Journey as well as assisted journey.
+Eligibility Condition (Above 3KW to 10KW): 
+  - Digital In-Principle Sanction to be given based on Self Declaration by the Applicant. Final Sanction to be based on verification of relevant documents and assessment by the Banks.
+  - All applications will be sourced through Jan Samarth Portal Only Available for Self-Sourced Journey as well as assisted journey.
+------------------------------------------------------------
+S No.: 16
+Parameter: Link for loan application
+Eligibility Condition (Up to 3KW): To apply register at https://pmsuryaghar.gov.in
+
+Click here to Apply Digitally for Loan up to 2 Lakhs https://mahadigitalloans.bankofmaharashtra.bank.in/surya/#/home
+
+After successful registration, please apply at https://www.jansamarth.in→ Renewable energy → Apply now
+Eligibility Condition (Above 3KW to 10KW): To apply register at https://pmsuryaghar.gov.in
+
+Click here to Apply Digitally for Loan up to 2 Lakhs https://mahadigitalloans.bankofmaharashtra.bank.in/surya/#/home
+
+After successful registration, please apply at https://www.jansamarth.in→ Renewable energy → Apply now
+------------------------------------------------------------

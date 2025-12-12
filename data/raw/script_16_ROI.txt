@@ -1,0 +1,13 @@
+--- Rate of Interest Retail Loans Page ---
+Title: Rate of Interest Retail Loans
+URL: https://bankofmaharashtra.in/retail-interest-rates
+
+Main Heading: Rate of Interest Retail Loans
+Description: Rate of Interest structure as mentioned bellow (RLLR-8.05%)
+
+--- Abbreviations ---
+Abbreviations:
+ER: Effective Rate
+CIC: Credit Information Company
+
+------------------------------------------------------------

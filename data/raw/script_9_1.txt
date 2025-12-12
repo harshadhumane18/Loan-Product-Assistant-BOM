@@ -1,0 +1,51 @@
+--- Maha Bank Personal Loan scheme to BPCL Employees Page ---
+Title: BPCL Employees: Get Personal Loans Now At Bank of Maharashtra
+URL: https://bankofmaharashtra.bank.in/mahabank-personalloan-scheme-bpcl-employees
+
+--- Maha Bank Personal Loan scheme to Bharat Petroleum Corporation Limited (BPCL) Employees ---
+Particulars: Name of the scheme
+Scheme Guidelines: Maha Bank Personal Loan scheme
+
+Particulars: Purpose of loan
+Scheme Guidelines: To cater to the requirements of meeting personal expenses.
+
+Particulars: Eligibility
+Scheme Guidelines: All confirmed employees of BPCL –public sector unit.
+
+Particulars: Min Annual Income
+Scheme Guidelines: Minimum annual Income – 3.00 Lakhs.
+
+Particulars: Maximum Quantum of Finance
+Scheme Guidelines: Maximum Rs 20.00 Lakhs.
+
+Loan amount is 20 times of Gross Monthly Income or as per Maximum Quantum of Finance whichever is lower
+
+Particulars: Margin
+Scheme Guidelines: Nil
+
+Particulars: Repayment Period
+Scheme Guidelines: 84 months
+
+Particulars: Rate of Interest
+Scheme Guidelines: RLLR + 1.65 %
+
+Particulars: Deduction
+Scheme Guidelines: Not to Exceed 60% of the Gross Income including Proposed EMI / Notional Interest.
+
+(In case of existing Housing loan borrowers 65% of Gross income including proposed EMI)
+
+Particulars: Security
+Scheme Guidelines: Nil (Clean Loan)
+
+Particulars: Guarantor
+Scheme Guidelines: One Guarantor acceptable to the Bank
+
+Particulars: Processing Fee
+Scheme Guidelines: Nil
+
+
+--- Calculate EMI ---
+Link: /personalloan-emi-calculator
+
+--- Apply Now ---
+Link: //digileads.bankofmaharashtra.bank.in/personal?bom
