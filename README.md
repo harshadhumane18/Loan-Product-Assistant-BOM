@@ -64,7 +64,7 @@ The system uses a sequential workflow managed by LangGraph:
 ## 📂 Project Structure
 
 ```bash
-proj_1211_new/
+Bom_load_product_assitant/
 │
 ├── rag_pipeline/
 │   ├── agentic_rag.py          # 🚀 Main RAG workflow (LangGraph entrypoint)
