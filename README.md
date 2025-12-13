@@ -265,8 +265,3 @@ python rag_pipeline/agentic_rag.py
 ```
 
 * * * * *
-
-🤝 Support
-----------
-
-For issues, troubleshooting, or help with expanding the project, please feel free to raise an issue in the repository or contact the maintainer directly.
